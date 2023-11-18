@@ -9,8 +9,6 @@
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... I am an only child.
 
-
-
 I just made this change on test-branch2.
 
 <!--

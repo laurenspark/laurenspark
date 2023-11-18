@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Lauren!
+### Hi there 👋 my name is Lauren! This is my README file.
 
 <!--
 **laurenspark/laurenspark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
